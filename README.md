@@ -21,6 +21,7 @@ To run your app on Android:
 
 #### troubleshooting
 At first I had this error:
+
 <img src="docs/error.png" width="300">
 
 reference: https://github.com/facebook/react-native/issues/18962
@@ -29,5 +30,7 @@ To fix this, downgrade babel from 5.0.0 to 4.0.0 in `package.json`:
 ```
 "babel-preset-react-native": "4.0.0",
 ```
+
 Then it worked.
+
 <img src="docs/fixed.png" width="300">
