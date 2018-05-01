@@ -1,6 +1,13 @@
-# Albums
+# Albums - React Native practice project
 
-## Setup
+## Udemy Course
+This repo contains the code for Albums project, which is a demo project in Stephen Grider's Udemy Course: [The Complete React Native and Redux Course](
+https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview)
+
+The official repo for this course: https://github.com/StephenGrider/ReactNativeReduxCasts
+
+## My Study Notes
+### Setup
 To set up the development environment for React Native, follow this guide:
 [React Native - Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 
